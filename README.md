@@ -2,3 +2,4 @@
 
 ##Skills
 * Object Oriented Programming
+* Software Engineering
