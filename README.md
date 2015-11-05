@@ -2,4 +2,4 @@
 
 ##Skills
 * Object Oriented Programming
-![OOP](http://i28.tinypic.com/zvwgif.jpg)
+<img src="http://i28.tinypic.com/zvwgif.jpg" width="200" height="200">
